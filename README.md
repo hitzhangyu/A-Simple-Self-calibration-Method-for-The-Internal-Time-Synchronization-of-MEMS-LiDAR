@@ -3,4 +3,6 @@ Automatic intrinsic parameter parameter calibration through point cloud: time de
 
 Finished：time delay between laser and mems
 
-Testing：time delay between reference and measurement
+Finished：time delay between reference and measurement
+
+Doing：Upper bound of error 
